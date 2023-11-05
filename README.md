@@ -8,6 +8,13 @@
 ### About Me:
 I am a student currently learning Programming Fundamentals and C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+- :telescope: I’m currently working on my Exams.
+- :seedling: Currently learning Programming Fundamentals and C++.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read about Military History.
+- :speech_balloon: Ask me about how to restore the Ottoman Empire
+- :mailbox:How to reach me: Ask my Mom                                                                                         
+- :zap: Fun fact: The Muslims ruled Iberia for around 400 years
+
 <!--
 **DemolisherCpp/DemolisherCpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
