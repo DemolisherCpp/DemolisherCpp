@@ -2,6 +2,9 @@
 
 # Greetings Young Sipahi 
 
+https://komarev.com/ghpvc/?username=your-github-username
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
 <!--
 **DemolisherCpp/DemolisherCpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
