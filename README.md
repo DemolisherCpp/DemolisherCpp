@@ -33,6 +33,9 @@ I am a student currently learning Programming Fundamentals and C++ <img src="htt
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DemolisherCpp&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemolisherCpp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **DemolisherCpp/DemolisherCpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
