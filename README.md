@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="D:\Omer's Data\Pictures\maxresdefault.jpg" width="100"/>
-</div>
+![EmperorSuleiman](https://github.com/DemolisherCpp/DemolisherCpp/assets/149885996/7196736d-41ac-4b4b-9e4e-d4db035ec3c1)
+
 ### Hi there 👋
 
 <!--
