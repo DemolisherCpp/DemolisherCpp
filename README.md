@@ -1,8 +1,8 @@
-![EmperorSuleiman](https://github.com/DemolisherCpp/DemolisherCpp/assets/149885996/7196736d-41ac-4b4b-9e4e-d4db035ec3c1)
+![EmperorSuleiman](https://github.com/DemolisherCpp/DemolisherCpp/assets/149885996/7196736d-41ac-4b4b-9e4e-d4db035ec3c1) 
 
-# Greetings Young Sipahi 
+<img src="https://komarev.com/ghpvc/?username=DemolisherCpp&style=flat-square&color=blue" alt=""/> 
 
-<img src="https://komarev.com/ghpvc/?username=DemolisherCpp&style=flat-square&color=blue" alt=""/>
+## Greetings Young Sipahi
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <!--
